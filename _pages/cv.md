@@ -48,6 +48,8 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
+  
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -57,5 +59,5 @@ Teaching
 
 Mentoring Experience
 ======
-* Matthew Kaes | BSc Student | CEGE Department | Fall 2021
+* Matthew Kaes \| BSc Student \| CEGE Department \| Fall 2021
   * Guided and partially supervised the undergraduate student performing research on predicting dilution from exhausts located on the side of multi-family residential buildings
