@@ -8,5 +8,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140700722001530'
 citation: '-'
 ---
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0140700722001530)
-
-Recommended citation: -

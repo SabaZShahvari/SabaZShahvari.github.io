@@ -8,5 +8,3 @@ paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/23744731.2020.1715252'
 citation: '-'
 ---
 [Download paper here](https://www.tandfonline.com/doi/abs/10.1080/23744731.2020.1715252)
-
-Recommended citation: -
