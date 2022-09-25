@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Amirkabir University of Technology, 2018, GPA 3.93
+* M.S. in Mechanical Engineering, The Ohio State University, 2019, GPA 4
+* Ph.D in : Civil, Environmental & Geodetic Engineering, The Ohio State University, 2023 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,16 +25,16 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Design & Optimization of Energy Systems with Dymola (Modelica)
+* Building Energy Modeling with EnergyPlus and OpenStudio
+* Fluid Flow and Heat Transfer modeling with AnsysFluent
+* CFD modeling of energy transfer systems with Engineering Equation Solver (EES)
+
 
 Publications
 ======
