@@ -5,6 +5,6 @@ permalink: /publication/2022-01-01-Performance
 date: 2022-01-01
 venue: 'International Journal of Refrigeration, 2022'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140700722001530'
-citation: '-'
+citation: ' '
 ---
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0140700722001530)
