@@ -1,8 +1,8 @@
 ---
 title: "Performance evaluation of a metal organic frameworks based combined dehumidification and indirect evaporative cooling system in different climates"
 collection: publications
-permalink: /publication/2022--
-date: 2022
+permalink: /publication/2022-01-01-Performance
+date: 2022-01-01
 venue: 'International Journal of Refrigeration, 2022'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140700722001530'
 citation: '-'
