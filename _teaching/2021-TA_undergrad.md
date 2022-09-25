@@ -1,7 +1,7 @@
 ---
-title: " fundamentals of Fluid Mechanics (CIVILEN 3130)"
+title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate Teaching Assistant"
+type: "Several Cources"
 permalink: /teaching/2021-TA_undergrad
 venue: "Amirkabir University of Technology, ME"
 date: 2017-08-25
