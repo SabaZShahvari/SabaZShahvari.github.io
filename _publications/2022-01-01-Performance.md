@@ -8,3 +8,5 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140700722001530'
 citation: ' '
 ---
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0140700722001530)
+
+Recommended citation: "Shahvari, Saba Zakeri, Vahid Ahmadi Kalkhorani, and Jordan D. Clark. "Performance evaluation of a metal organic frameworks based combined dehumidification and indirect evaporative cooling system in different climates." International Journal of Refrigeration (2022)."
