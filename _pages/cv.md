@@ -69,6 +69,6 @@ Mentoring Experience
 
 Research Experience
 ======
-  <ul>{% for post in site.researches %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

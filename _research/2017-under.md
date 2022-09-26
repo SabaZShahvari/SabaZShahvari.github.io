@@ -3,7 +3,7 @@ title: "Undergraduate Research Assistant-ME Department-Amirkabir University of T
 – Fall 2017"
 collection: teaching
 type: "Undergraduate Research Assistant"
-permalink: /researches/2022-GRA
+permalink: /research/2022-GRA
 venue: "Amirkabir university of Technology, ME"
 date: 2017-08-25
 location: "Tehran, Iran"
